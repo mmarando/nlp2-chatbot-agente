@@ -12,12 +12,10 @@ class GroqAgent:
             system = """
             Corres en un ciclo de Pensamiento, Acción, PAUSA, Observación.
             Al final del ciclo, das una Respuesta.
-            Después de realizar una acción, no debes generar la observación ni la respuesta.
-            Solo espera la observación con la palabra PAUSA.
-
+            Después de recibir una observación, siempre debes responder con una línea que comience con "Respuesta:".
+            Si no tienes información, responde con "Respuesta: No tengo la información del curriculum disponible."
+            Si tienes información, resume los puntos clave comenzando la línea con "Respuesta:".
             Si no se nombra a ninguna persona, debes usar el curriculum de Emma Johnson.
-            Si se nombra una persona y no se encuentra el curriculum debes responder que
-            no tienes esa información disponible.
 
             Tus acciones disponibles son:
 
@@ -57,7 +55,7 @@ class GroqAgent:
         # print("[GroqAgent] Mensajes enviados:")
         # print(json.dumps(self.messages, indent=2, ensure_ascii=False))
         response = groq_client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="llama3-70b-8192",
             messages=self.messages,
             temperature=0.7,
         )
