@@ -1,0 +1,10 @@
+groq==0.23.0
+ipython==8.12.3
+matplotlib==3.10.1
+numpy==2.2.5
+pandas==2.2.3
+pinecone==6.0.2
+pygraphviz==1.14
+scikit_learn==1.6.1
+sentence_transformers==4.0.2
+streamlit==1.44.1

@@ -1,0 +1,175 @@
+ID,Name,Resume
+1,Emma Johnson,"
+Name: Emma Johnson
+
+Contact Information:
+Email: emma.j@email.com
+Phone: 987-654-3210
+Location: Pune, India
+
+Summary:
+Experienced iOS Developer with a strong command over Swift and objective C. Good knowledge of interface builder, Core animation, and Object oriented concepts. Familiarity with frameworks & web technologies. Excellent communication skills and pleasant in communication.
+
+Education:
+Bachelor of Engineering in Computer Science (BECE)
+
+Skills:
+- Strong command over Swift and objective C
+- Good knowledge of interface builder, Core animation, and Object oriented concepts
+- Familiarity with frameworks & web technologies
+- Excellent communication skills
+
+Work Experience:
+
+1. iOS Developer
+LMN Company, Pune, India
+May 2019 - Present
+
+- Designed and developed applications for the iOS platform
+- Worked on client interaction
+- Collaborated with cross-functional teams to define, design and ship new features
+- Unit-tested code for robustness, including edge cases, usability and general reliability
+- Worked on bug fixing and improving application performance
+
+2. iOS Developer
+PQR Company, Mumbai, India
+January 2018 - April 2019
+
+- Designed and built applications for the iOS platform
+- Worked on client interaction
+- Collaborated with cross-functional teams to define, design and ship new features
+- Unit-tested code for robustness, including edge cases, usability and general reliability
+- Worked on bug fixing and improving application performance
+
+Certifications:
+- Certified iOS Developer"
+2,Jane Doe,"
+Name: Jane Doe
+
+Address: 456 Main St, Anytown, USA
+
+Email: jane.doe@email.com
+
+Phone: (123) 456-7890
+
+Objective: Full Stack Developer at PayPal
+
+Summary: Experienced Full Stack Developer with a passion for creating high-quality web-based applications. Skilled in JavaScript programming and server-side frameworks like Node.js. Strong experience with RESTful APIs and JSON data. Knowledgeable in HTML, CSS, and jQuery. Able to think logically and diagnose and triage issues to execute solutions. Passionate about designing and engineering rich user interfaces. A disciplined approach to testing and quality assurance. Hands-on knowledge of Git version control system.
+
+Skills:
+
+- JavaScript programming
+- Node.js server-side framework
+- RESTful APIs
+- JSON data
+- HTML, CSS, and jQuery
+- Git version control system
+
+Experience:
+
+Full Stack Developer - XYZ Company
+
+- Developed a custom web-based application using Node.js and RESTful APIs.
+- Collaborated with a team of developers to deliver a high-quality product on time.
+- Conducted testing and quality assurance to ensure the application was bug-free.
+- Improved the application's performance by optimizing code and implementing caching techniques.
+
+Web Developer - ABC Agency
+
+- Developed and maintained several websites using HTML, CSS, and jQuery.
+- Conducted testing and quality assurance to ensure the websites were bug-free.
+- Worked with a team of designers and developers to deliver high-quality websites on time.
+
+Education:
+
+Bachelor of Science in Computer Science - University of Anytown
+
+Certifications:
+
+- Node.js Certified Developer"
+3,George Smith,"
+Name: George Smith
+
+Location: Bangalore, Karnataka
+
+Summary:
+A highly motivated DevOps Engineer with 3+ years of experience in designing and implementing continuous integration and deployment solutions using Jenkins and Ansible. Experienced in configuring and maintaining source code repositories using Git. Proficient in Python and Bash scripting.
+
+Work Experience:
+
+DevOps Engineer
+PQR Company, Bangalore, Karnataka
+June 2019 - Present
+
+Key Responsibilities:
+- Designed and implemented continuous integration and deployment solutions using Jenkins and Ansible
+- Configured and maintained source code repositories using Git
+- Maintained communication with stakeholders and documented DevOps processes
+
+Achievements:
+- Reduced deployment time by 30% by implementing continuous integration and deployment
+- Automated build process resulting in 60% reduction in build time
+
+Software Engineer
+LMN Company, Hyderabad, Telangana
+January 2017 - June 2019
+
+Key Responsibilities:
+- Developed and maintained Python scripts for automating deployment
+- Configured and maintained source code repositories using Git
+- Worked on continuous integration using Jenkins
+
+Achievements:
+- Automated deployment process resulting in 50% reduction in deployment time
+- Improved code quality by implementing code review process using Git
+
+Education:
+
+Bachelor of Technology in Computer Science
+Jawaharlal Nehru Technological University, Hyderabad, Telangana
+
+Certifications:
+
+AWS Certified DevOps Engineer - Professional
+Red Hat Certified System Administrator (RHCSA)"
+4,John Robinson,"
+Name: John Robinson
+
+Contact Information:
+Email: johnrobinson@email.com
+Phone: 555-555-5555
+
+Summary:
+Experienced JavaScript Developer with over 2 years of experience in developing applications and software using Java. Proficient in JavaScript, HTML, CSS, and React. Skilled in developing responsive and user-friendly applications.
+
+Skills:
+- Proficient in JavaScript
+- Experienced in HTML and CSS
+- Skilled in React
+- Knowledgeable in Java
+- Familiar with Node.js
+
+Work Experience:
+JavaScript Developer at ABC Company (2 years)
+- Developed and maintained applications and software using Java
+- Worked on a team to create responsive and user-friendly applications
+- Collaborated with UX designers to create visually appealing interfaces
+- Improved application performance by optimizing code
+
+Java Developer at XYZ Company (1 year)
+- Contributed to the development of Java-based applications
+- Worked with a team of developers to create high-quality software
+- Created and maintained documentation for software development projects
+
+Education:
+Bachelor's Degree in Computer Science, XYZ University
+
+Certifications:
+- Java SE 8 Programmer
+- React Nanodegree, Udacity
+
+KPIs:
+- Improved application performance by 25% through code optimization
+- Developed 5 responsive and user-friendly applications
+
+"
